@@ -6,6 +6,4 @@
 <br>
 💻 Developing software at Siemens Mobility
 <br>
-📚 Interested in TypeScript, C++, Java
-<br>
 📫 Reach me at me hello@tomasboda.dev
