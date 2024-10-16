@@ -2,7 +2,7 @@
 <br>
 📍 Based in Prague, Czech republic
 <br>
-📚 Pursuing bachelor's degree in Computer Science at Charles University
+📚 Pursuing master's degree in Computer Science at Charles University
 <br>
 💻 Developing software at Siemens Mobility
 <br>
