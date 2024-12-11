@@ -4,6 +4,6 @@
 <br>
 📚 Pursuing master's degree in Computer Science at Charles University
 <br>
-💻 Developing software at Siemens Mobility
+💻 Software Engineer at Trezor
 <br>
 📫 Reach me at me hello@tomasboda.dev
