@@ -2,7 +2,7 @@
 <br>
 📍 Based in Prague, Czech republic
 <br>
-📚 Pursuing master's degree in Computer Science at Charles University
+📚 Obtained master's degree in Computer Science at Charles University
 <br>
 💻 Developing software at Trezor
 <br>
